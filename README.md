@@ -20,10 +20,10 @@ Preview: A brief summary of the article.
 **Optional Output:**
 
 Saved the extracted data to a JSON file for easy sharing.
-Outcome: Successfully scraped and stored Mars news titles and previews, enabling further analysis or publication.
+**Outcome:** Successfully scraped and stored Mars news titles and previews, enabling further analysis or publication.
 
 **Deliverable 2:** Scrape and Analyze Mars Weather Data
-Objective: Extract and analyze weather data from an HTML table on the Mars Temperature Data site.
+**Objective:** Extract and analyze weather data from an HTML table on the Mars Temperature Data site.
 
 **Data Scraping:**
 
@@ -61,8 +61,8 @@ Saved the cleaned and analyzed DataFrame to a CSV file for further use.
 **Outcome:** Delivered a comprehensive analysis of Martian weather patterns, supported by visualizations and a structured dataset.
 
 Key Insights
-Mars News:
+**Mars News:**
 Extracted up-to-date news titles and summaries, providing a foundation for public engagement or scientific reporting.
-Mars Weather:
+**Mars Weather:**
 Identified critical environmental trends on Mars, including temperature and pressure variations.
 Estimated the duration of a Martian year, highlighting seasonal changes.
