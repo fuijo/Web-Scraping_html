@@ -1,6 +1,8 @@
+# Web Scraping
 This project involved scraping and analyzing data from two Mars-related sources to deepen web-scraping skills and provide meaningful insights about Martian news and weather conditions. The project consisted of two main deliverables: scraping Mars news articles and analyzing Mars weather data.
 
 **Deliverable 1:** Scrape Titles and Preview Text from Mars News
+
 **Objective:** Extract the latest news titles and previews from the Mars News website.
 
 **Automated Browsing:**
